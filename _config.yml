@@ -1,0 +1,28 @@
+name: Sophishka
+favicon: null
+layout_spectrum: 0.5921282479539514
+typography_spectrum: 0.8283336637541652
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.11792035051621497
+  lightness: 0.9817030772101134
+  saturation: 0.44425131962634623
+  rhythmicContrast: 0.9513593579176813
+purpose: []
